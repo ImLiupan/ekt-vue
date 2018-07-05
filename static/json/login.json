@@ -1,0 +1,7 @@
+{
+  "status": 200,
+  "msg": "登录成功",
+  "data": {
+    "token": "2GZsc2OfmcjUecvIm4tVhZzRVK2YI1Pk1H1hirVNnyclV44aDqiO5SwDSgeTTE6S"
+  }
+}

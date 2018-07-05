@@ -1,0 +1,103 @@
+{
+    "status": 200,
+    "data": [{
+        "houseid": "31006",
+        "link": "http:\/\/house.xafc.com\/31006\/",
+        "point": {
+            "lat": "31.77651301",
+            "lng": "116.621522248"
+        },
+        "city": "la",
+        "housename": "\u8fdc\u5927\u4e1c\u90fd1\u53f7",
+        "area": "\u7ecf\u5f00\u533a",
+        "bzone": "\u7ecf\u5f00",
+        "coverurl": "http:\/\/img2.xafc.com\/old\/building\/subject\/pid_30916_bid_31006_20140320084239_5729.jpg_360x270.jpg",
+        "price": "5100",
+        "sellstatus": "selling",
+        "sellstatus_cha": "\u5728\u552e",
+        "housetags": [{
+            "housetag_id": "589",
+            "contents": "\u5b66\u6821\u9644\u8fd1"
+        }, {
+            "housetag_id": "634",
+            "contents": "\u521a\u9700\u623f"
+        }, {
+            "housetag_id": "645",
+            "contents": "\u4f4e\u603b\u4ef7"
+        }, {
+            "housetag_id": "649",
+            "contents": "\u91d1\u724c\u7269\u4e1a"
+        }, {
+            "housetag_id": "655",
+            "contents": "\u4f18\u60e0\u6253\u6298"
+        }],
+        "arearange": "95-136.13\u33a1",
+        "is3d": "No",
+        "isaerialphoto": "No",
+        "id": 5,
+        "commission": 12.21,
+        "chacity": "\u516d\u5b89"
+    }, {
+        "houseid": "31820",
+        "link": "http:\/\/house.xafc.com\/31820\/",
+        "point": {
+            "lat": "31.71865",
+            "lng": "117.279868"
+        },
+        "city": "hf",
+        "housename": "\u5408\u80a5\u4e91\u8c37",
+        "area": "\u6ee8\u6e56\u65b0\u533a",
+        "bzone": "\u73af\u6e56CBD",
+        "coverurl": "http:\/\/img2.xafc.com\/housecover\/20151008\/5615d8f691313.jpg_360x270.jpg",
+        "price": 0,
+        "sellstatus": "selling",
+        "sellstatus_cha": "\u5728\u552e",
+        "housetags": [{
+            "housetag_id": "595",
+            "contents": "\u516c\u56ed"
+        }, {
+            "housetag_id": "634",
+            "contents": "\u521a\u9700\u623f"
+        }, {
+            "housetag_id": "669",
+            "contents": "\u590d\u5408\u5730\u4ea7"
+        }],
+        "arearange": "89.6-138.7\u33a1",
+        "is3d": "No",
+        "isaerialphoto": "Yes",
+        "id": 4,
+        "commission": 90,
+        "chacity": "\u5408\u80a5"
+    }, {
+        "houseid": "32520",
+        "link": "http:\/\/house.xafc.com\/32520\/",
+        "point": {
+            "lat": "31.883688",
+            "lng": "117.441843"
+        },
+        "city": "hf",
+        "housename": "\u84dd\u5149\u516c\u56ed1\u53f7",
+        "area": "\u80a5\u4e1c",
+        "bzone": "\u80a5\u4e1c\u53bf",
+        "coverurl": "http:\/\/img2.xafc.com\/housecover\/20170531\/592e668607e21.jpg_360x270.jpg",
+        "price": "11000",
+        "sellstatus": "selling",
+        "sellstatus_cha": "\u5728\u552e",
+        "housetags": [{
+            "housetag_id": "88",
+            "contents": "2\u53f7\u7ebf"
+        }, {
+            "housetag_id": "647",
+            "contents": "\u4f4e\u5bc6\u5ea6"
+        }, {
+            "housetag_id": "684",
+            "contents": "\u4e0d\u9650\u8d2d"
+        }],
+        "arearange": "105.15-151.04\u33a1",
+        "is3d": "Yes",
+        "isaerialphoto": "Yes",
+        "id": 1,
+        "commission": 50,
+        "chacity": "\u5408\u80a5"
+    }]
+}
